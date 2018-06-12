@@ -1,0 +1,24 @@
+﻿  Main.cpp
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\mathstuff.h(12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\mathstuff.h(16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(78): warning C4244: 'argument': conversion from 'const uint32' to 'const float32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(78): warning C4244: 'argument': conversion from 'uint32' to 'const float32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(94): warning C4244: '=': conversion from 'int32' to 'float32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(101): warning C4244: '=': conversion from 'int32' to 'float32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(117): warning C4244: '=': conversion from 'int32' to 'float32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(124): warning C4244: '=': conversion from 'int32' to 'float32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(139): warning C4018: '<': signed/unsigned mismatch
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(177): warning C4244: 'argument': conversion from 'float32' to 'int32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(178): warning C4244: 'argument': conversion from 'float32' to 'int32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(179): warning C4244: 'argument': conversion from 'float32' to 'int32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(260): warning C4244: 'argument': conversion from 'uint32_t' to 'const float32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(300): warning C4244: 'initializing': conversion from 'float' to 'int32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(300): warning C4244: 'initializing': conversion from 'float' to 'const int32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(304): warning C4244: 'argument': conversion from 'int32' to 'const float32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(306): warning C4244: 'argument': conversion from 'int32' to 'const float32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(412): warning C4018: '<': signed/unsigned mismatch
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(478): warning C4244: 'argument': conversion from 'uint32' to 'const float32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(487): warning C4244: 'argument': conversion from 'uint32' to 'const float32', possible loss of data
+c:\users\navi\source\repos\softwaretrianglerasterizer\softwaretrianglerasterizer\rasterizer.h(496): warning C4244: 'argument': conversion from 'uint32' to 'const float32', possible loss of data
+  SoftwareTriangleRasterizer.vcxproj -> C:\Users\navi\source\repos\SoftwareTriangleRasterizer\Debug\SoftwareTriangleRasterizer.exe
